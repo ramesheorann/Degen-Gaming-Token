@@ -39,8 +39,13 @@ Network Name: Avalanche Fuji C-Chain New RPC URL: https://api.avax-test.network/
 10. You can also see details about the `token name`, `token symbol`, `total supply`, `decimals` etc.
 
 ## Authors
-Ramesh 
-[@ramesh](https://www.linkedin.com/in/ramesheorann/)
+[Ramesh](https://www.linkedin.com/in/ramesheorann/)
+
 
 ## License
-tokenForDegenGaming Contract is released under the [MIT License](LICENSE).
+
+This project is released under the [MIT License](LICENSE).
+
+## Credits
+
+This project is a solution to the project task provided by [MetaCrafters](https://www.metacrafters.io/).
