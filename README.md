@@ -43,4 +43,4 @@ Ramesh
 [@ramesh](https://www.linkedin.com/in/ramesheorann/)
 
 ## License
-tokenForDegenGaming Contract is released under the [MIT License](LICENSE).
+DegenGaming Contract is released under the [MIT License](LICENSE).
